@@ -1,11 +1,10 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "name": "Liaw Sze Wong",
+    "time": "1pm",
+    "late": false,
+    "gender": "M",
+    "IsClass": false,
+    "location": "S434"
   }
-}
+  ]
