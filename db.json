@@ -7,14 +7,6 @@
     "gender": "M",
     "IsClass": false,
     "location": "S434"
-  },
-   {
-    "name": "huang",
-    "time": "1pm",
-    "late": true,
-    "gender": "M",
-    "IsClass": false,
-    "location": "S434"
   }
   ]
 }
