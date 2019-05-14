@@ -5,7 +5,7 @@
     "time": "1pm",
     "late": true,
     "gender": "M",
-    "IsClass": true,
+    "IsClass": false,
     "location": "S434"
   }
   ]
