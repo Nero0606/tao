@@ -3,9 +3,9 @@
   {
     "name": "Liaw Sze Wong",
     "time": "1pm",
+    "IsClass": false,
     "late": true,
     "gender": "M",
-    "IsClass": false,
     "location": "S434"
   }
   ]
